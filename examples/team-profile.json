@@ -1,0 +1,18 @@
+{
+  "facts": {
+    "team_name": "Circuit Makers (fictional example)",
+    "team_number": "12345",
+    "contact_email": "demo@example.org",
+    "mission": "A fictional FTC team learning robotics and sharing engineering with our community.",
+    "writing_preferences": "Use clear, direct sentences. Do not invent metrics or achievements."
+  },
+  "approved_answers": {
+    "How will this grant benefit your community?": "We plan to use the funding to hold free introductory robotics workshops."
+  },
+  "attachments": {},
+  "authorization": {
+    "auto_submit": false,
+    "max_request_amount": 1500,
+    "allow_ai_drafts": false
+  }
+}
